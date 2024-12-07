@@ -6,4 +6,4 @@ I have a background in design and fine art, and I combine this expertise with an
 
 🖥️ Explore a selection of my work on henrybabbage.com
 
-☁️ I can also be found on [https://x.com/henrybabbage](X) and [https://linkedin.com/in/henrybabbage](LinkedIn)
+☁️ I can also be found on [X](https://x.com/henrybabbage) and [LinkedIn](https://linkedin.com/in/henrybabbage)
