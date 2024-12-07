@@ -1,7 +1,7 @@
-I’m Henry, a Fullstack Engineer from Aotearoa / New Zealand, now based between Paris and Berlin.
+### I’m Henry, a Fullstack Engineer from Aotearoa / New Zealand, now based between Paris and Berlin.
 
-Coming from a background in design and fine art, I combine this expertise with an attentiveness for good patterns and architecture, placing importance on design execution, accessibility standards, performance and maintainability. I collaborate with designers and engineers to build polished software and web experiences.
+#### Coming from a background in design and fine art, I combine this expertise with an attentiveness for good patterns and architecture, placing importance on design execution, accessibility standards, performance and maintainability. I collaborate with designers and engineers to build polished software and web experiences.
 
 🛰️ Email me at hbabbage@gmail.com
 🖥️ Explore a selection of my work on henrybabbage.com
-☁️ I can also be found on (https://x.com/henrybabbage)[X] and (https://linkedin.com/in/henrybabbage)[LinkedIn]
+☁️ I can also be found on [https://x.com/henrybabbage](X) and [https://linkedin.com/in/henrybabbage](LinkedIn)
