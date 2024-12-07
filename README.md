@@ -4,6 +4,6 @@ I have a background in design and fine art, and I combine this expertise with an
 
 🛰️ Email me at hbabbage@gmail.com
 
-🖥️ Explore a selection of my work on henrybabbage.com
+🖥️ Explore a selection of my work on [henrybabbage.com](https://henrybabbage.com)
 
 ☁️ I can also be found on [X](https://x.com/henrybabbage) and [LinkedIn](https://linkedin.com/in/henrybabbage)
